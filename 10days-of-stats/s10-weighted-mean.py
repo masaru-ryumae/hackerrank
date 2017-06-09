@@ -17,3 +17,4 @@ if __name__ == '__main__':
     weighted_mean = sum/float(weight_sum)
 
     print "%.1f" % weighted_mean
+    
